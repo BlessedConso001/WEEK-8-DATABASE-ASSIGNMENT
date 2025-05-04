@@ -1,5 +1,5 @@
 -- ======================================
---  QUESTION ONE; 1  CHURCH DATABASE: Structure & Sample Data
+--  QUESTION TWO; 2  CHURCH DATABASE: Structure & Sample Data
 -- ======================================
 
 -- Step 1: Drop tables if they already exist
