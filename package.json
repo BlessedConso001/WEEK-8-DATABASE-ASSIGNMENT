@@ -1,0 +1,26 @@
+{
+  "name": "week8-database",
+  "version": "1.0.0",
+  "description": "This is my BankERD that I created.\r ![This is my BankERD](BankERD.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlessedConso001/WEEK-8-DATABASE-ASSIGNMENT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlessedConso001/WEEK-8-DATABASE-ASSIGNMENT/issues"
+  },
+  "homepage": "https://github.com/BlessedConso001/WEEK-8-DATABASE-ASSIGNMENT#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}

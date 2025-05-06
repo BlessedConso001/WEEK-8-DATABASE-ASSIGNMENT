@@ -1,6 +1,8 @@
 -- ======================================
 --  QUESTION TWO; 2  CHURCH DATABASE: Structure & Sample Data
 -- ======================================
+CREATE  DATABASE church_db;
+USE church_db;
 
 -- Step 1: Drop tables if they already exist
 DROP TABLE IF EXISTS donations;
